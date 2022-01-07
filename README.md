@@ -19,8 +19,10 @@ Tools used:
 -  `Pandas`
 -  `NumPy`
 -  `matplotlib`
--  'seaborn'
--  'VS code'
+-  `seaborn`
+-  `Flask`
+-  `Heroku`
+-  `VS code`
 
  <img src="https://github.com/shardul28/spam-classifier/blob/main/live.jpeg"/>
 
