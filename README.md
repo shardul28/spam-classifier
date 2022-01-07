@@ -29,7 +29,10 @@ Tools used:
 <!-- CONTACT -->
 ## Contact
 
-  Shardul Tambe - <a href="https://www.linkedin.com/in/shardul-tambe-300ab4223/">My Linkedin</a> - tambeshardul@gmail.com
+  Shardul Tambe - <a href="https://www.linkedin.com/in/shardul-tambe-300ab4223/">My Linkedin</a> 
+  My website - <a href="https://tambe.herokuapp.com/">https://tambe.herokuapp.com/</a>
+  Email- tambeshardul@gmail.com
+  
 
   Project Link: [ <a href="https://spam-classifier28.herokuapp.com/">https://spam-classifier28.herokuapp.com/</a>]
 
