@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://spam-classifier28.herokuapp.com/">
-    <img src="https://i.gifer.com/Ou1t.gif" alt="Logo" width="80" height="80">
+    <img src="https://i.gifer.com/Ou1t.gif" alt="spam classifier">
   </a>
 
   <h3 align="center">SPAM EMAIL/SMS Predictor</h3>
@@ -22,3 +22,4 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+</div>
