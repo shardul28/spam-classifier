@@ -3,12 +3,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://spam-classifier28.herokuapp.com/">
-    ![Ou1t](https://user-images.githubusercontent.com/52525200/148497939-0706b848-8da4-4574-9ecd-ea34f62c1dea.gif)
+  <a href="https://spam-classifier28.herokuapp.com/"></a>
+   
 
+</div>
     
   </a>
-
+ ![Ou1t](https://user-images.githubusercontent.com/52525200/148497939-0706b848-8da4-4574-9ecd-ea34f62c1dea.gif)
   <h3 align="center">SPAM EMAIL/SMS Predictor</h3>
 
 
@@ -24,4 +25,3 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-</div>
