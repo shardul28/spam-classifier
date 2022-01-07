@@ -1,4 +1,4 @@
-# email-spam-classifier-new
+# email-spam-classifier
 
 <!-- PROJECT LOGO -->
 <br />
