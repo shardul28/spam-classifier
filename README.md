@@ -9,7 +9,7 @@
 </div>
     
   </a>
- ![Ou1t](https://user-images.githubusercontent.com/52525200/148497939-0706b848-8da4-4574-9ecd-ea34f62c1dea.gif)
+ <img src="https://github.com/shardul28/spam-classifier/blob/main/Ou1t.gif">
   <h3 align="center">SPAM EMAIL/SMS Predictor</h3>
 
 
