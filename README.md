@@ -4,8 +4,9 @@
 <br />
 <div align="center">
   <a href="https://spam-classifier28.herokuapp.com/">
-    ![](https://i.gifer.com/Ou1t.gif)
-    <img src="https://i.gifer.com/Ou1t.gif" alt="spam classifier">
+    ![Ou1t](https://user-images.githubusercontent.com/52525200/148497939-0706b848-8da4-4574-9ecd-ea34f62c1dea.gif)
+
+    
   </a>
 
   <h3 align="center">SPAM EMAIL/SMS Predictor</h3>
